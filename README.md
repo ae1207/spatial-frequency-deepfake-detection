@@ -1,6 +1,3 @@
-# spatial-frequency-deepfake-detection
-Final Year Project implementing a spatial-frequency deepfake detection framework using Xception-based spatial features and FFT-based spectral features, with evaluation under full-frame, face-cropped, cross-dataset, and cross-compression settings.
-
 # Spatial-Frequency Deepfake Detection
 
 This repository contains the implementation of a Final Year Project titled **Enhancing Deepfake Algorithms**, where enhancement refers to improving **deepfake detection algorithms** rather than deepfake generation. The project investigates a spatial-frequency feature fusion approach for deepfake detection using an Xception-based spatial branch and an FFT-based frequency branch.
